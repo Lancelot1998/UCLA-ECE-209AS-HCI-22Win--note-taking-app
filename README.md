@@ -10,3 +10,7 @@ This is a course project for UCLA ECE209-HCI, Winter 22.
 4) Click "Automatically manage signing"
 5) Give a random Bundle Identifer (e.g., if your name is Jason, the Bundle Identifer can be com.Jason)
 6) Build the code
+
+# How to enable the Alamofire 
+1) decompass the Alamofire-master.zip
+2) move the Alamofire.xcodeproj to the 
